@@ -4,5 +4,5 @@ driver.findElement By.partial link
 driver.findElement By.tagname 
 driver.findElement By.css
 driver.findElement By.partial linkText
-driver.findElement By.xpath
+driver.findElement By.
 driver.findElement By.id
